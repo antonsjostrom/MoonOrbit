@@ -1,2 +1,1 @@
-# MoonOrbit
-This repo is used to host the MoonOrbit project
+This project was done to see how effective it would be to use HJB and PMP to control a simulated space ship around an orbit, in my case, a moon. The results is that it works well and the process to go from the base case to the more advance planning and controlling was a fun step to explore.
